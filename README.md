@@ -49,8 +49,8 @@
 - Learning mid-level features for recognition (2010), Y. Boureau *(LeCun)* [[pdf]](http://ece.duke.edu/~lcarin/boureau-cvpr-10.pdf)
 
 ### Image Recognition and Object Detection.
-- Histogram of Oriented Gradients - Published - DECEMBER 6, 2016 BY SATYA MALLICK (http://www.learnopencv.com/histogram-of-oriented-gradients/)
-- Histogram of Oriented Gradients and Object Detection By Adrian Rosebrock on November 10, 2014 in Machine Learning, Tutorials (http://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/)
+- [Histogram of Oriented Gradients - Published - DECEMBER 6, 2016 BY SATYA MALLICK](http://www.learnopencv.com/histogram-of-oriented-gradients/)
+- [Histogram of Oriented Gradients and Object Detection By Adrian Rosebrock on November 10, 2014 in Machine Learning, Tutorials](http://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/)
 
 ### Caption
 - Show, attend and tell: Neural image caption generation with visual attention (2015), K. Xu et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1502.03044) :sparkles:
