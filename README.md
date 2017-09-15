@@ -110,6 +110,10 @@
 - Caffe: Convolutional architecture for fast feature embedding (2014), Y. Jia et al. [[pdf]](http://arxiv.org/pdf/1408.5093) :sparkles:
 - Theano: new features and speed improvements (2012), F. Bastien et al. *(Bengio)* [[pdf]](http://arxiv.org/pdf/1211.5590)
 
+### SDCND TERM2 - PAPERS
+- How a Kalman filter works, in pictures (http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
